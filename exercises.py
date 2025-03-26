@@ -50,7 +50,7 @@ def check_letter():
         print(f"Incorrect input, enter a single letter") 
 
 # Call the function
-# check_letter()
+check_letter()
 
 
 # Exercise 2: Old enough to vote?
@@ -82,7 +82,7 @@ def check_voting_eligibility():
     else:
         print("You are not eligible to vote!")
 
-# check_voting_eligibility()
+check_voting_eligibility()
 
 
     # Exercise 3: Calculate Dog Years
@@ -121,7 +121,7 @@ def calculate_dog_years():
 
 
 # Call the function
-# calculate_dog_years()
+calculate_dog_years()
 
 
 
@@ -159,7 +159,7 @@ def weather_advice():
         print("Wear light clothing.")
 
 # Call the function
-# weather_advice()
+weather_advice()
 
 
 # Exercise 5: What's the Season?
